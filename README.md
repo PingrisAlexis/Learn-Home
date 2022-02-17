@@ -33,4 +33,4 @@
 
 - [Mock-ups Learn@Home](https://www.figma.com/file/odVgC9TotKUgraThMntoFN/Dev4U-projet-Learn%40Home?node-id=18%3A43)
 - [Kanban Learn@Home](https://www.notion.so/Dev4U-projet-Learn-Home-487ca8a3ccfa4fa88a75e469ff235dc0)
- 
+- [User stories & use case diagrams Learn@Home](https://github.com/PingrisAlexis/PingrisAlexis_10_31012022/wiki/Learn@Home)
