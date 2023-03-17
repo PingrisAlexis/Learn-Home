@@ -1,6 +1,6 @@
-# PingrisAlexis_10_25012022
+# Project 5/9 Front End Developer Path
 
-## Project 10 Front-End OpenClassrooms - Define the needs for a school support app.
+## Define the needs for a school support app.
 
 ### Specifications:
 
