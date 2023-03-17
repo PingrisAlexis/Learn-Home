@@ -1,4 +1,4 @@
-# Project 5/9 Front End Developer Path
+# Project 5/9 - Front End Developer Path
 
 ## Define the needs for a school support app.
 
